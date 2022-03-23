@@ -53,6 +53,7 @@ We provide to ensure the success of each project across different verticals. Her
    * NEAR [Job Board](https://jobs.openweb.dev/)
    * Community prospect [database](https://docs.google.com/spreadsheets/d/1tiBYUSjC0q-l7ySW4shTv6aB6ZRGJ8QJ4GEoMCO_OkE/edit?resourcekey#gid=259451723)
 * Community ([OWS](https://near.org/sandbox/)) that can support gigs
+  * Project request form: [request] (https://airtable.com/shrwaPB7BgZTDnfn9)
 * Funding Support 
    * NEAR Grants [portal](https://near.org/grants)
    * VC Referral Network [request](https://nearprotocol1001.typeform.com/nearvcnetwork)
@@ -63,13 +64,18 @@ We provide to ensure the success of each project across different verticals. Her
 ## DeFi Project Resources: 
 
 * [Ref.Finance](https://www.ref.finance/) - Combines several core components: a decentralized exchange, and AMM Whitelisting procedure
+   * How to get your token whitelisted: [Procedure](https://gov.ref.finance/t/farming-procedure/412)
 * [Skyward Finance](https://gov.ref.finance/t/new-whitelisting-procedure/224) - Fair token distribution and price discovery for projects built on NEAR Protocol
    * Launch your IDO on Skyward: [request form](https://skyward.finance/launch/)
+* Launchpads on Aurora: 
+   *[SmartPad](https://smartpad.network/) - 
+      * [Deck](https://drive.google.com/file/d/18OKyUtX_PJmYJ20V41_uAl2gGnRfnEBs/view)
 * [GoverNauts](https://t.me/GovCommons) - Token engineering / Tokenomics support
 * [Burrow](https://testnet.burrow.cash/supply) - Lending Protocol
 * [DeFi Wizards Guild](https://gov.near.org/t/wizards-guild/4213)
 * Stablecoins - [OIN Finance](https://near.oin.finance/)
 * Liquid Staking - [Metapool](https://metapool.app/)
+   * Contacting form for proposals/enquiries : [Partnership](https://airtable.com/shru3vdm0kJzFXXZC)
 * [AstroDAO](https://astrodao.com/) - Advanced DAO framework for governance of DeFi protocols
 * [The Graph](https://thegraph.com/) - Native DeFi Indexer
    * [Documentation](https://thegraph.com/docs/en/supported-networks/near/) for building subgraphs on NEAR 
@@ -95,7 +101,7 @@ We provide to ensure the success of each project across different verticals. Her
 * [NEARton](https://twitter.com/MetaNEARton) - A DeFi strategy game based on NFT staking
 * [Mintbase](https://www.mintbase.io/) - NFT protocol that allows you to mint, sell, & develop on your own smart contract
 * NFT projects mint date [database](https://docs.google.com/spreadsheets/d/1Aer2mmqyD4ZL32vmLt2c0SNk6_XBntG3W78WN-JLGjM/edit#gid=0)
-
+* List of NFT launchpads 
 
 <br />
 
@@ -108,6 +114,8 @@ We provide to ensure the success of each project across different verticals. Her
 * [4NTS](https://nearguilds.com/about/)- community building and marketing focused guild.
 * [NEAR NFT Club](https://nearnft.club/) - collaborate with all the developed and ongoing developing NFT dapps on NEAR
 * Kitchen Guild - for blogger, YouTube, and other forms of influencer marketing
+* NEAR Star Guild - dedicated to connect projects and Youtubers influencer
+  * How to submit your procject to be advertised by NEAR Star Guild:[Here] https://gov.near.org/t/submit-your-near-project-or-guild-to-be-advertised-by-stars-guild/15123)
 * [OWS](https://near.org/sandbox/) & [Human Guild](https://humanguild.io/) - for any leads on talents or individual contributors within the ecosystem
 * Request marketing support from NEAR Foundation for meaningful events such as product launch, marketing campaigns, etc. via the [activate form](https://near.org/activate/)
 
@@ -118,7 +126,7 @@ We provide to ensure the success of each project across different verticals. Her
 * [Reddit Ops (Sue](http://t.me/seriousbusinessusername) generally hosts Reddit AMAs
 * [Next Creators](https://nextcreators.simplecast.com/) - a podcast interviewing creators forging a new path for themselves and others on the internet
 * [Open Web Sandbox](https://near.org/sandbox/) lead Sofia hosts AMAs on the OWS Discord: Email: sofia@4nts.com or Telegram
-* [Rise and Grind](https://twitter.com/risengrind_near) is a daily podcast with people/teams from the ecosystem to increase visibility & awareness - Contact
+* [Rise and Grind](https://twitter.com/risengrind_near) is a daily podcast with people/teams from the ecosystem to increase visibility & awareness - Reach out to them via [Telegram channel](https://t.me/riseandgrindnear) 
 * [NEARWeek](https://twitter.com/NEARWEEK) does weekly video interviews to further showcase & get visibility on your project - reach out to Anton to vschedule
 * [NPKguild](https://t.me/damboy22) - events, AMAs, influencer outreach, translation, promotion & marketing
 
@@ -164,6 +172,9 @@ Aurora is an EVM created by the team at NEAR Protocol, delivering a turn-key sol
 * [Discord](https://discord.gg/MNzP48n4) for Aurora ecosystem support and project teams building on Aurora to communicate and connect
 * Aurora / Rainbow Bridge Official [Telegram](https://t.me/auroraisnear)
 * Aurora Community [Telegram](https://t.me/Aurora_community)
+
+## Octopus Network Resources: 
+Octopus Network is a 
 
 <br />
 Still have additional questions? Fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSep9ZA0lfQNgiDm_0uQ6iS65QEyape9u_NeFyHIVQQhJQ3aVQ/viewform ) and let us know!
